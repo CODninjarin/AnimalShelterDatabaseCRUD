@@ -7,7 +7,7 @@
   
 ### How do you approach a problem as a computer scientist? Consider how you approached the database or dashboard requirements that Grazioso Salvare requested. How did your approach to this project differ from previous assignments in other courses? What techniques or strategies would you use in the future to create databases to meet other client requests?
 
-- With this being my first time working with MongoDB and databases, it took a lot of trial and error to understand how it worked. Translating console commands into code was a lot easier since i've used python before and I had gained an understanding of how MongoDB woerks. The requirements for the project made the simple database into a more powerful interactive tool and having a good grasp on all the concepts involved helps to create code that works as intended.
+- With this being my first time working with MongoDB and databases, it took a lot of trial and error to understand how it worked. Translating console commands into code was a lot easier since i've used python before and I had gained an understanding of how MongoDB works. The requirements for the project made the simple database into a more powerful interactive tool and having a good grasp on all the concepts involved helps to create code that works as intended.
 
 ### What do computer scientists do, and why does it matter? How would your work on this type of project help a company, like Grazioso Salvare, to do their work better?
 
